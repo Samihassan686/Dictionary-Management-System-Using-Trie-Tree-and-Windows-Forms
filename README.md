@@ -7,7 +7,4 @@ Interactive Word Addition: Users can seamlessly contribute new words to the dict
 
 Streamlined Word Deletion: The system allows for the easy removal of existing words, ensuring the dictionary remains up-to-date and relevant.
 
-Flexible Word Updation: Catering to the evolving nature of language, the system supports modifications and updates to the definitions and details of the existing words.
-
 The frontend, developed using Windows Forms, provides an intuitive and easy-to-navigate interface, making it accessible for users of all technical backgrounds. The backend, powered by a Trie Tree, ensures optimal performance in data retrieval and manipulation.
-
