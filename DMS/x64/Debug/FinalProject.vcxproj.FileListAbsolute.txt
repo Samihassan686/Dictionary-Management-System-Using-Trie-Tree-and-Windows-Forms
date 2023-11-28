@@ -1,0 +1,25 @@
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.AddWord.resources
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.MainForm.resources
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.MenuForm.resources
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.vcxproj.GenerateResource.cache
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.exe
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.vcxproj.AssemblyReference.cache
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.SearchWord.resources
+C:\Users\samih\OneDrive\Desktop\Data Final\FinalProject\x64\Debug\FinalProject.DeleteWord.resources
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.vcxproj.AssemblyReference.cache
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.AddWord.resources
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.DeleteWord.resources
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.MainForm.resources
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.MenuForm.resources
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.SearchWord.resources
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.vcxproj.GenerateResource.cache
+C:\Users\samih\OneDrive\Desktop\FinalProject\x64\Debug\FinalProject.exe
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.vcxproj.AssemblyReference.cache
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.AddWord.resources
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.DeleteWord.resources
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.MainForm.resources
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.MenuForm.resources
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.SearchWord.resources
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.vcxproj.GenerateResource.cache
+C:\Users\samih\OneDrive\Desktop\DMS\x64\Debug\FinalProject.exe
